@@ -1,2 +1,3 @@
 ## Screenshots
-![Linear Regression Example](0.png)
+![](screenes/0.png)
+
